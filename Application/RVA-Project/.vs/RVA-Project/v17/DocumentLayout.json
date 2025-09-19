@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\thirdpartyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\thirdpartyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\productentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\productentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\thirdpartystoredata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\thirdpartystoredata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\iproductentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\iproductentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\filestrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\filestrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\ifilestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\ifilestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\xmlstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\xmlstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\remittedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\remittedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\updatebillcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\updatebillcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\jsonstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jsonstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\ibillstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\ibillstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\deletebillcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\deletebillcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\currencytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\currencytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\csvstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\csvstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\confirmedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\confirmedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\clearedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\clearedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\chartobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\chartobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\cashregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\cashregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\billentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\billentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\domain\\models\\addbillcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9151D4-8ED4-4F9D-BE26-DE2D4AD6FFD1}|Domain\\Domain.csproj|solutionrelative:domain\\models\\addbillcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE81432B-9603-4018-8B08-BB73881B2A4C}|Client\\Client.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE81432B-9603-4018-8B08-BB73881B2A4C}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE81432B-9603-4018-8B08-BB73881B2A4C}|Client\\Client.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE81432B-9603-4018-8B08-BB73881B2A4C}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07741B13-D1E4-49BB-9D8F-B2C833414B31}|Server\\Server.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\server\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07741B13-D1E4-49BB-9D8F-B2C833414B31}|Server\\Server.csproj|solutionrelative:server\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43A1F03-21E9-43FA-A572-30111F5A929C}|Services\\Services.csproj|c:\\users\\homepc\\documents\\github\\razvoj-viseslojnih-aplikacija-projekat\\application\\rva-project\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43A1F03-21E9-43FA-A572-30111F5A929C}|Services\\Services.csproj|solutionrelative:services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\Discount.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Discount.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\Discount.cs",
+              "RelativeToolTip": "Domain\\Models\\Discount.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:33:34.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThirdPartyStoreData.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\ThirdPartyStoreData.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ThirdPartyStoreData.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\ThirdPartyStoreData.cs",
+              "RelativeToolTip": "Domain\\Models\\ThirdPartyStoreData.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:32:05.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThirdPartyProduct.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\ThirdPartyProduct.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ThirdPartyProduct.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\ThirdPartyProduct.cs",
+              "RelativeToolTip": "Domain\\Models\\ThirdPartyProduct.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:31:57.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductEntry.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\ProductEntry.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ProductEntry.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\ProductEntry.cs",
+              "RelativeToolTip": "Domain\\Models\\ProductEntry.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwD4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:31:32.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XmlStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\XmlStrategy.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\XmlStrategy.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\XmlStrategy.cs",
+              "RelativeToolTip": "Domain\\Models\\XmlStrategy.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:26:46.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFileStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\IFileStrategy.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\IFileStrategy.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\IFileStrategy.cs",
+              "RelativeToolTip": "Domain\\Models\\IFileStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:20:54.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileStrategyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\FileStrategyFactory.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\FileStrategyFactory.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\FileStrategyFactory.cs",
+              "RelativeToolTip": "Domain\\Models\\FileStrategyFactory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:27:27.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductEntry.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\IProductEntry.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\IProductEntry.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\IProductEntry.cs",
+              "RelativeToolTip": "Domain\\Models\\IProductEntry.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:31:27.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RemittedState.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\RemittedState.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\RemittedState.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\RemittedState.cs",
+              "RelativeToolTip": "Domain\\Models\\RemittedState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:31:55.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateBillCommand.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\UpdateBillCommand.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\UpdateBillCommand.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\UpdateBillCommand.cs",
+              "RelativeToolTip": "Domain\\Models\\UpdateBillCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:32:06.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\Logger.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Logger.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\Logger.cs",
+              "RelativeToolTip": "Domain\\Models\\Logger.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:31:30.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\IObserver.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\IObserver.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\IObserver.cs",
+              "RelativeToolTip": "Domain\\Models\\IObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:31:25.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\ICommand.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ICommand.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\ICommand.cs",
+              "RelativeToolTip": "Domain\\Models\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:31:23.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBillState.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\IBillState.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\IBillState.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\IBillState.cs",
+              "RelativeToolTip": "Domain\\Models\\IBillState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:31:18.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\FileManager.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\FileManager.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\FileManager.cs",
+              "RelativeToolTip": "Domain\\Models\\FileManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:31:12.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteBillCommand.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\DeleteBillCommand.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\DeleteBillCommand.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\DeleteBillCommand.cs",
+              "RelativeToolTip": "Domain\\Models\\DeleteBillCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:31:07.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JsonStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\JsonStrategy.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JsonStrategy.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\JsonStrategy.cs",
+              "RelativeToolTip": "Domain\\Models\\JsonStrategy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:24:49.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CsvStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\CsvStrategy.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\CsvStrategy.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\CsvStrategy.cs",
+              "RelativeToolTip": "Domain\\Models\\CsvStrategy.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:19:58.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConfirmedState.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\ConfirmedState.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ConfirmedState.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\ConfirmedState.cs",
+              "RelativeToolTip": "Domain\\Models\\ConfirmedState.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:19:57.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClearedState.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\ClearedState.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ClearedState.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\ClearedState.cs",
+              "RelativeToolTip": "Domain\\Models\\ClearedState.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:19:06.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CommandManager.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\CommandManager.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\CommandManager.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\CommandManager.cs",
+              "RelativeToolTip": "Domain\\Models\\CommandManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:19:54.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CurrencyType.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\CurrencyType.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\CurrencyType.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\CurrencyType.cs",
+              "RelativeToolTip": "Domain\\Models\\CurrencyType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:19:59.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CashRegister.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\CashRegister.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\CashRegister.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\CashRegister.cs",
+              "RelativeToolTip": "Domain\\Models\\CashRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:17:44.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChartObserver.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\ChartObserver.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ChartObserver.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\ChartObserver.cs",
+              "RelativeToolTip": "Domain\\Models\\ChartObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:17:43.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BillEntry.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\BillEntry.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\BillEntry.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\BillEntry.cs",
+              "RelativeToolTip": "Domain\\Models\\BillEntry.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:17:19.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddBillCommand.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\AddBillCommand.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\AddBillCommand.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Domain\\Models\\AddBillCommand.cs",
+              "RelativeToolTip": "Domain\\Models\\AddBillCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:17:16.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Client\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Client\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Client\\MainWindow.xaml",
+              "RelativeToolTip": "Client\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-19T10:10:22.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Client\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Client\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Client\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Client\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:10:22.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Server\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "Server\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Server\\Service1.svc.cs",
+              "RelativeToolTip": "Server\\Service1.svc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:09:30.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Services\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\GitHub\\Razvoj-viseslojnih-aplikacija-projekat\\Application\\RVA-Project\\Services\\Class1.cs",
+              "RelativeToolTip": "Services\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:07:13.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

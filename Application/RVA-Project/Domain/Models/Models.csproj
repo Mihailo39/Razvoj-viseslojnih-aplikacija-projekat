@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace>Domain.Models</RootNamespace>
+    <AssemblyName>Models</AssemblyName>
+    <ProjectGuid>{}</ProjectGuid>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CashRegister.cs" />
+    <Compile Include="ThirdPartyStoreData.cs" />
+    <Compile Include="ThirdPartyProduct.cs" />
+    <Compile Include="CurrencyType.cs" />
+    <Compile Include="Discount.cs" />
+    <Compile Include="ProductEntry.cs" />
+    <Compile Include="BillEntry.cs" />
+    <Compile Include="IBillState.cs" />
+    <Compile Include="ConfirmedState.cs" />
+    <Compile Include="RemittedState.cs" />
+    <Compile Include="ClearedState.cs" />
+    <Compile Include="IObserver.cs" />
+    <Compile Include="ChartObserver.cs" />
+    <Compile Include="Logger.cs" />
+    <Compile Include="FileManager.cs" />
+    <Compile Include="IFileStrategy.cs" />
+    <Compile Include="XmlStrategy.cs" />
+    <Compile Include="CsvStrategy.cs" />
+    <Compile Include="JsonStrategy.cs" />
+    <Compile Include="IProductEntry.cs" />
+    <Compile Include="ICommand.cs" />
+    <Compile Include="CommandManager.cs" />
+    <Compile Include="AddBillCommand.cs" />
+    <Compile Include="DeleteBillCommand.cs" />
+    <Compile Include="UpdateBillCommand.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

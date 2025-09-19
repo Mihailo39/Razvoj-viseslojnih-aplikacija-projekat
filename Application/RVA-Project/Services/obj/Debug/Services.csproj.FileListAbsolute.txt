@@ -1,0 +1,6 @@
+C:\Users\HomePC\Documents\GitHub\Razvoj-viseslojnih-aplikacija-projekat\Application\RVA-Project\Services\bin\Debug\Services.dll
+C:\Users\HomePC\Documents\GitHub\Razvoj-viseslojnih-aplikacija-projekat\Application\RVA-Project\Services\bin\Debug\Services.pdb
+C:\Users\HomePC\Documents\GitHub\Razvoj-viseslojnih-aplikacija-projekat\Application\RVA-Project\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\HomePC\Documents\GitHub\Razvoj-viseslojnih-aplikacija-projekat\Application\RVA-Project\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\Documents\GitHub\Razvoj-viseslojnih-aplikacija-projekat\Application\RVA-Project\Services\obj\Debug\Services.dll
+C:\Users\HomePC\Documents\GitHub\Razvoj-viseslojnih-aplikacija-projekat\Application\RVA-Project\Services\obj\Debug\Services.pdb
